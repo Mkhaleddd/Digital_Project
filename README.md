@@ -77,4 +77,3 @@ IIR filters are widely used in **signal processing**, including audio enhancemen
    * Input: Step signal from 0 → 7
 
 
-| Report             | 10%    |
