@@ -45,7 +45,7 @@ IIR filters are widely used in **signal processing**, including audio enhancemen
 * **Clock & Reset:** Active-low asynchronous Reset, 10 MHz initial clock
 * **Technology:** 130 nm CMOS, VDD = 1.2V
 * **Load:** 500 fF at filter output
-* **Implementation:** Flexible logic styles (CMOS, ratioed, DCVSL, pass-transistor, dynamic)
+* **Implementation:** CMOS
 
 ---
 
