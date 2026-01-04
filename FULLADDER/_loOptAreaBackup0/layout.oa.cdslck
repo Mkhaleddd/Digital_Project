@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      centos
+HostName                       ic
+ProcessIdentifier              2923
+ProcessCreationTime_UTC        1767493125
+ProcessCreationTime_Readable   Sat Jan  3 21:18:45 2026 EST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/centos/umc130nm/my_project/DIGITAL_PROJECT/FULLADDER/_loOptAreaBackup0/layout.oa.cdslck.dirlck
+TimeEditLocked                 Sat Jan  3 21:20:38 2026 EST

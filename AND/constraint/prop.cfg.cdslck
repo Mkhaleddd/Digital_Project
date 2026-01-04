@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      centos
+HostName                       ic
+ProcessIdentifier              4626
+ProcessCreationTime_UTC        1766655490
+ProcessCreationTime_Readable   Thu Dec 25 04:38:10 2025 EST
+AppIdentifier                  /opt/cadence/IC617/tools/dfII/bin/64bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       
+FilePathUsedToEditLock         /home/centos/my_project/DIGITAL_PROJECT/AND/constraint/prop.cfg
+TimeEditLocked                 Thu Dec 25 06:14:17 2025 EST
